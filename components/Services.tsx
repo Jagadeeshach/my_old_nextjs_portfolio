@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 
 
 
@@ -12,7 +11,7 @@ const Services = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 w-[80%] mx-auto items-center gap-[3rem] mt-[4rem] text-white">
         <div data-aos="fade-right">
           <div className="bg-blue-700 hover:scale-110 transform transition-all duration-300 hover:-rotate-6 font-semibold text-center">
-            <Image src={"/images/Frontenddeveloper.jpeg"} alt={"img1"} />
+            <img src="/images/Frontenddeveloper.jpeg" alt="img1" />
             <div className="p-[2rem]">
               <h1 className="text-[20px] md:text-[30px] mb-[1.5rem]">
                 FRONTEND DEVELOPMENT
@@ -30,7 +29,7 @@ const Services = () => {
         </div>
         <div data-aos="zoom-in" data-aos-delay="300">
           <div className="bg-gray-700 hover:scale-110 transform transition-all duration-300 font-semibold text-center">
-            <Image src={"/images/Backenddeveloper.jpeg"} alt={"img2"} />
+            <img src="/images/Backenddeveloper.jpeg" alt="img2" />
             <div className="p-[2rem]">
               <h1 className="text-[20px] md:text-[30px] mb-[1.5rem]">
                 BACKEND DEVELOPMENT
@@ -48,7 +47,7 @@ const Services = () => {
         </div>
         <div data-aos="fade-left" data-aos-delay="500">
           <div className="bg-orange-700 hover:scale-110 transform transition-all duration-300 hover:rotate-6 font-semibold text-center">
-            <Image src={"/images/Fullstackdeveloper.jpeg"} alt={"img3"} />
+            <img src="/images/Fullstackdeveloper.jpeg" alt="img3" />
             <div className="p-[2rem]">
               <h1 className="text-[20px] md:text-[30px] mb-[1.5rem]">
                 FULL STACK DEVELOPMENT

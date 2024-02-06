@@ -8,7 +8,7 @@ import { faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 const Hero = () => {
   return (
-    <div className="h-[88vh] bg-[url('/images/imagebluebg.jpg')] mt-[10vh] bg-cover bg-center">
+    <div className="h-[100%] bg-[url('/images/imagebluebg.jpg')] mt-[4vh] pt-[40%] lg:pt-[10%] bg-cover bg-center">
       <Particle />
       <div className="w-[80%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-[100%] items-center">
         <div>
@@ -55,8 +55,8 @@ const Hero = () => {
           className="w-[430px] h-[430px] hidden bg-[#55e6a5] relative lg:flex items-center rounded-full "
         >
           <Image
-            src="/images/youtubeicon.jpeg"
-            alt="user"
+            src={"/images/youtubeicon.jpeg"}
+            alt={"user"}
             layout="fill"
             className="object-cover rounded-full"
           />

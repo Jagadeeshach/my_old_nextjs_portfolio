@@ -10,7 +10,7 @@ const TextEffect = () => {
         'Backend Developer',
         1500,
         'Full Stack Developer',
-        10000,
+        1500,
         'Content Creator',
         1500,
         'Influencer At LinkedIn',
