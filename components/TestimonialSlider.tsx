@@ -1,7 +1,8 @@
 import React from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import ClientReview from "@/Components/ClientReview";
+
+import ClientReview from "@/components/ClientReview";
 
 const responsive = {
   desktop: {

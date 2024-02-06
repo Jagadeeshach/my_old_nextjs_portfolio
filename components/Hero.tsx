@@ -2,7 +2,6 @@ import React from "react";
 import Particle from "./Particle";
 import TextEffect from "./TextEffect";
 import Image from "next/image";
-import { ArrowDownTrayIcon, PlayCircleIcon } from "@heroicons/react/20/solid";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
