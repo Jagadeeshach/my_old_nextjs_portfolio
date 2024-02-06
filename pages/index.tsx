@@ -1,16 +1,16 @@
 import React, { useState, useEffect } from "react";
-import Nav from "@/Components/Nav";
-import MobileNav from "@/Components/MobileNav";
-import Hero from "@/Components/Hero";
-import About from "@/Components/About";
-import Services from "@/Components/Services";
-import Skills from "@/Components/Skills";
-import Projects from "@/Components/Projects";
-import Testimonial from "@/Components/Testimonial";
-import MasteringSkills from "@/Components/MasteringSkills";
-import CurrentProjects from "@/Components/CurrentProjects";
+import Nav from "@/components/Nav";
+import MobileNav from "@/components/MobileNav";
+import Hero from "@/components/Hero";
+import About from "@/components/About";
+import Services from "@/components/Services";
+import Skills from "@/components/Skills";
+import Projects from "@/components/Projects";
+import Testimonial from "@/components/Testimonial";
+import MasteringSkills from "@/components/MasteringSkills";
+import CurrentProjects from "@/components/CurrentProjects";
 import { Element } from "react-scroll";
-import Footer from "@/Components/Footer";
+import Footer from "@/components/Footer";
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 // ..
