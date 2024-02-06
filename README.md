@@ -6,11 +6,11 @@
 
 ![j2](https://github.com/Jagadeeshach/my_old_nextjs_portfolio/assets/141582411/40710ee3-ac1b-46b1-85ed-9203b8def493)
 
-![j4](https://github.com/Jagadeeshach/my_old_nextjs_portfolio/assets/141582411/10b01d11-bedc-4af8-a24c-
+![j4](https://github.com/Jagadeeshach/my_old_nextjs_portfolio/assets/141582411/10b01d11-bedc-4af8-a24c-474-9e13-ca58260213ce)
 
-![j5](https://github.com/Jagadeeshach/my_old_nextjs_portfolio/assets/141582411/0ea56015-c2ae-4
+![j5](https://github.com/Jagadeeshach/my_old_nextjs_portfolio/assets/141582411/0ea56015-c2ae-41aecfa16d221)
+
 
 ![j6](https://github.com/Jagadeeshach/my_old_nextjs_portfolio/assets/141582411/ddb9855e-8988-4eef-b029-388bcd8593ae)
-474-9e13-ca58260213ce)
-1aecfa16d221)
+
 
