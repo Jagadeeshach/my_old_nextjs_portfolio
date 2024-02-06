@@ -14,15 +14,15 @@ const Hero = () => {
       <div className="w-[80%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-[100%] items-center">
         <div>
           <h1 className="text-[35px] md:text-[50px] text-white font-bold">
-            Hi, I'M <span className="text-yellow-400">JAGADEESH!</span>
+            Hi, I&apos;M <span className="text-yellow-400">JAGADEESH!</span>
           </h1>
           <TextEffect />
           <p className="mt-[1.5rem] text-[18px] text-[#ffffff92]">
-            I'm a full-stack developer skilled in creating user-friendly
+            I&apos;m a full-stack developer skilled in creating user-friendly
             interfaces with React and Bootstrap, and building robust server-side
             applications using Node.js, Express, and MongoDB. I excel at turning
             ideas into functional solutions, ensuring both the front and back
-            ends work seamlessly. Let's collaborate to bring your digital
+            ends work seamlessly. Let&apos;s collaborate to bring your digital
             projects to life with innovation and efficiency!
           </p>
           <div className="mt-[1rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6">

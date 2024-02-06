@@ -24,7 +24,7 @@ const About = () => {
               As I had Computer Application Management subject in second year of my graduation where I had to study topics like DBMS, Management Information System (MIS), NoSQL databases, TCP/IP etc. I found interest in the same. &nbsp;
               And now I am a dynamic professional with expertise in development
               technologies like React JS, Node JS, Express, MongoDB, Bootstrap,
-              Tailwind, jQuery, Next JS, and Git. I'm not only adept at building
+              Tailwind, jQuery, Next JS, and Git. I&apos;m not only adept at building
               applications but also expanding my horizons by learning modern
               frameworks like Three.js and cloud services on AWS. <br /> <br />
               &nbsp; With a comprehensive skill set in Meta marketing and
